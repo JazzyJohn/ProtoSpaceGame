@@ -1,0 +1,87 @@
+{
+	"all_departments":[
+		"military","mining","civilian"
+	],
+	"mining":[
+		[
+			{"url":"advnmin","name":"Advanced mining drone equipment", "map":[100,0,0,0,0]},
+			{"url":"encminscanner","name":"Enhanced Mineral Scanners", "map":[0,100,0,0,0]},
+			{"url":"minmark2","name":"Mining drones mark II", "map":[0,0,100,0,0]}
+		],
+		[
+			{"url":"heavyequip","name":"Heavy drilling equipment", "map":[1000,500,0,0,0]},
+			{"url":"dronebay","name":"Advanced drone-holding bays", "map":[500,1000,0,0,0]},
+			{"url":"cloakfield","name":"Drone cloaking-field devices", "map":[0,0,1000,500,0]}
+		],
+		[
+			{"url":"orbmining","name":"Orbital mining base", "map":[1000,500,0,0,0]},
+			{"url":"advnlogistic","name":"Advanced Logistics", "map":[500,1000,0,0,0]},
+			{"url":"demolising","name":"Demolitions workshop", "map":[0,0,1000,500,0]}
+		],
+		[
+			{"url":"heavydriling","name":"Integrated heavy drilling platform", "map":[1000,500,0,0,0]},
+			{"url":"undergroundware","name":"Underground warehoses", "map":[500,1000,0,0,0]},
+			{"url":"mobilerefinery","name":"Mobile refinery", "map":[0,0,1000,500,0]}
+		],
+		[
+			{"url":"nanofabric","name":"Nano-fabricators processing technology", "map":[1000,500,0,0,0]},
+			{"url":"sunextractor","name":"High temperature automated extractor", "map":[500,1000,0,0,0]},
+			{"url":"teloprter","name":"Underwater giant teleporter", "map":[0,0,1000,500,0]}
+		]
+	],
+	"civilian":[
+		[
+			{"url":"prepfirstcontact","name":"Prepared first contact team", "map":[100,0,0,0,0]},
+			{"url":"mediabrodcast","name":"Media broadcasting system", "map":[0,100,0,0,0]},
+			{"url":"tradingfleetsupport","name":"Trading fleet support", "map":[0,0,100,0,0]}
+		],
+		[
+			{"url":"localmarketanalise","name":"Local market analyses system", "map":[1000,500,0,0,0]},
+			{"url":"peackeeperopen","name":"Peacekeeper mission", "map":[500,1000,0,0,0]},
+			{"url":"merchantheadcuater","name":"Interstellar merchant headquarters", "map":[0,0,1000,500,0]}
+		],
+		[
+			{"url":"depart","name":"Department of arts", "map":[1000,500,0,0,0]},
+			{"url":"educmission","name":"Educational mission", "map":[500,1000,0,0,0]},
+			{"url":"nativespecialists","name":"Native specialists", "map":[0,0,1000,500,0]}
+		],
+		[
+			{"url":"openenvcontrol","name":"Environmental control", "map":[1000,500,0,0,0]},
+			{"url":"combinedengen","name":"Combined engineering", "map":[500,1000,0,0,0]},
+			{"url":"medicaltech","name":"Hybrid medical tech", "map":[0,0,1000,500,0]}
+		],
+		[
+			{"url":"arrival","name":"Arrival of messiah", "map":[1000,500,0,0,0]},
+			{"url":"orbitalpropoganda","name":"Orbital Propaganda center ", "map":[500,1000,0,0,0]},
+			{"url":"atmospheric","name":"Atmospheric processor", "map":[0,0,1000,500,0]}
+		]
+	],
+	"military":[
+		[
+			{"url":"hoveropen","name":"Fast hover-vehicles", "map":[100,0,0,0,0]},
+			{"url":"loadingbay","name":"Automated loading bays", "map":[0,100,0,0,0]},
+			{"url":"barackench","name":"Barracks enhanced training facilities", "map":[0,0,100,0,0]}
+		],
+		[
+			{"url":"supplydrop","name":"Orbital supply drops", "map":[1000,500,0,0,0]},
+			{"url":"punishersq","name":"Punisher squads", "map":[500,1000,0,0,0]},
+			{"url":"pillageteam","name":"Special pillaging teams", "map":[0,0,1000,500,0]}
+		],
+		[
+			{"url":"heavyweapon","name":"Heavy weapon teams", "map":[1000,500,0,0,0]},
+			{"url":"mobilehospital","name":"Mobile hospitals", "map":[500,1000,0,0,0]},
+			{"url":"heavyartilery","name":"Heavy artillery elemetns", "map":[0,0,1000,500,0]}
+		],
+		[
+			{"url":"stealth","name":"Stealth transports", "map":[1000,500,0,0,0]},
+			{"url":"orbitalbombard","name":"Orbital bombardment support", "map":[500,1000,0,0,0]},
+			{"url":"combatmech","name":"Combat mechs", "map":[0,0,1000,500,0]}
+		],
+		[
+			{"url":"orbitalcannon","name":"Orbital Holocaust-class plasma cannon", "map":[1000,500,0,0,0]},
+			{"url":"militarycovernor","name":"Military Governor fortress", "map":[500,1000,0,0,0]},
+			{"url":"purifier","name":"Purifier-class pillaging mech", "map":[0,0,1000,500,0]}
+		]
+	]
+
+}

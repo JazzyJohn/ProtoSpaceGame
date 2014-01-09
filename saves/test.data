@@ -1,0 +1,217 @@
+22 serialization::archive 9 0 1 0
+0 0 0 0 0 0 10 0 3 1 0
+1 0 0 0 0 10 Country #0 0 0 17 0 0 0 9 Agression 6 1 0
+2 0 0 0 94 15 Agression Delta 6
+3 1 0 0 0.34134954 13 Alertness Lvl 6
+4 1 0 0 0 8 Economic 6
+5 0 0 0 62 14 Economic Delta 6
+6 1 0 0 -0.67552722 10 Envoirment 6
+7 0 0 0 0 16 Envoirment Delta 6
+8 1 0 0 0.76512957 3 IIF 6
+9 1 0 0 0 14 Military Power 6
+10 0 0 0 533 20 Military Power Delta 6
+11 1 0 0 0.30875576 10 Population 6
+12 0 0 0 1470 16 Population Delta 6
+13 1 0 0 0.9569689 5 Trade 6
+14 0 0 0 88 7 Worship 6
+15 0 0 0 78 13 Worship Delta 6
+16 1 0 0 0.78856778 13 communication 6
+17 0 0 0 0 19 communication Delta 6
+18 1 0 0 -0.81566823 0 0 2 0 0 0 2 94 0 0 14 Civilian goods 22 Null matter based ores 2 86 0 0 28 Clean Viruses and Pathogenes 11 Liquid ores 3
+19 0 0 0 0 10 Country #1 17 0 9 Agression 6
+20 0 0 0 91 15 Agression Delta 6
+21 1 0 0 0.24808496 13 Alertness Lvl 6
+22 1 0 0 0 8 Economic 6
+23 0 0 0 58 14 Economic Delta 6
+24 1 0 0 -0.6382336 10 Envoirment 6
+25 0 0 0 0 16 Envoirment Delta 6
+26 1 0 0 -0.39921263 3 IIF 6
+27 1 0 0 0 14 Military Power 6
+28 0 0 0 500 20 Military Power Delta 6
+29 1 0 0 -0.024811549 10 Population 6
+30 0 0 0 1229 16 Population Delta 6
+31 1 0 0 0.98852503 5 Trade 6
+32 0 0 0 69 7 Worship 6
+33 0 0 0 69 13 Worship Delta 6
+34 1 0 0 -0.084017456 13 communication 6
+35 0 0 0 0 19 communication Delta 6
+36 1 0 0 -0.56730855 1 0 2 67 0 0 15 Technical goods 22 Null matter based ores 3
+37 0 0 0 0 10 Country #2 17 0 9 Agression 6
+38 0 0 0 98 15 Agression Delta 6
+39 1 0 0 -0.9036836 13 Alertness Lvl 6
+40 1 0 0 0 8 Economic 6
+41 0 0 0 74 14 Economic Delta 6
+42 1 0 0 -0.56578267 10 Envoirment 6
+43 0 0 0 0 16 Envoirment Delta 6
+44 1 0 0 0.30985442 3 IIF 6
+45 1 0 0 0 14 Military Power 6
+46 0 0 0 723 20 Military Power Delta 6
+47 1 0 0 0.16727196 10 Population 6
+48 0 0 0 1146 16 Population Delta 6
+49 1 0 0 -0.35111547 5 Trade 6
+50 0 0 0 56 7 Worship 6
+51 0 0 0 59 13 Worship Delta 6
+52 1 0 0 0.22782068 13 communication 6
+53 0 0 0 0 19 communication Delta 6
+54 1 0 0 -0.19327372 2 0 2 75 0 0 13 Medical goods 12 DNA research 2 87 0 0 18 Clean Mineral Ores 12 DNA research 3
+55 0 0 0 0 10 Country #3 17 0 9 Agression 6
+56 0 0 0 53 15 Agression Delta 6
+57 1 0 0 -0.49186683 13 Alertness Lvl 6
+58 1 0 0 0 8 Economic 6
+59 0 0 0 69 14 Economic Delta 6
+60 1 0 0 -0.6787011 10 Envoirment 6
+61 0 0 0 0 16 Envoirment Delta 6
+62 1 0 0 -0.30454421 3 IIF 6
+63 1 0 0 0 14 Military Power 6
+64 0 0 0 547 20 Military Power Delta 6
+65 1 0 0 0.84057128 10 Population 6
+66 0 0 0 1763 16 Population Delta 6
+67 1 0 0 0.20352794 5 Trade 6
+68 0 0 0 97 7 Worship 6
+69 0 0 0 67 13 Worship Delta 6
+70 1 0 0 0.58610797 13 communication 6
+71 0 0 0 0 19 communication Delta 6
+72 1 0 0 0.43571275 3 0 2 92 0 0 15 Technical goods 12 DNA research 1 92 0 0 35 Clean Cross Spieces Experimentation 11 Liquid ores 2 95 0 0 15 Technical goods 12 DNA research 3
+73 0 0 0 0 10 Country #4 17 0 9 Agression 6
+74 0 0 0 88 15 Agression Delta 6
+75 1 0 0 0.61857969 13 Alertness Lvl 6
+76 1 0 0 0 8 Economic 6
+77 0 0 0 56 14 Economic Delta 6
+78 1 0 0 0.07840205 10 Envoirment 6
+79 0 0 0 0 16 Envoirment Delta 6
+80 1 0 0 0.60319835 3 IIF 6
+81 1 0 0 0 14 Military Power 6
+82 0 0 0 656 20 Military Power Delta 6
+83 1 0 0 0.5759148 10 Population 6
+84 0 0 0 1079 16 Population Delta 6
+85 1 0 0 0.27597889 5 Trade 6
+86 0 0 0 67 7 Worship 6
+87 0 0 0 71 13 Worship Delta 6
+88 1 0 0 0.67583239 13 communication 6
+89 0 0 0 0 19 communication Delta 6
+90 1 0 0 -0.84295177 2 0 1 94 0 0 15 Technical goods 14 Plasmatic ores 2 96 0 0 13 Medical goods 12 DNA research 3
+91 0 0 0 0 10 Country #5 17 0 9 Agression 6
+92 0 0 0 54 15 Agression Delta 6
+93 1 0 0 -0.63383895 13 Alertness Lvl 6
+94 1 0 0 0 8 Economic 6
+95 0 0 0 70 14 Economic Delta 6
+96 1 0 0 -0.60997343 10 Envoirment 6
+97 0 0 0 0 16 Envoirment Delta 6
+98 1 0 0 0.45561084 3 IIF 6
+99 1 0 0 0 14 Military Power 6
+100 0 0 0 777 20 Military Power Delta 6
+101 1 0 0 0.40531632 10 Population 6
+102 0 0 0 1165 16 Population Delta 6
+103 1 0 0 -0.58610797 5 Trade 6
+104 0 0 0 71 7 Worship 6
+105 0 0 0 60 13 Worship Delta 6
+106 1 0 0 -0.80803859 13 communication 6
+107 0 0 0 0 19 communication Delta 6
+108 1 0 0 0.61412394 2 0 2 86 0 0 20 Clean Plasmatic ores 14 Plasmatic ores 1 82 0 0 20 Clean Plasmatic ores 12 Mineral Ores 3
+109 0 0 0 0 10 Country #6 17 0 9 Agression 6
+110 0 0 0 73 15 Agression Delta 6
+111 1 0 0 0.86706138 13 Alertness Lvl 6
+112 1 0 0 0 8 Economic 6
+113 0 0 0 63 14 Economic Delta 6
+114 1 0 0 0.76299328 10 Envoirment 6
+115 0 0 0 0 16 Envoirment Delta 6
+116 1 0 0 0.39017916 3 IIF 6
+117 1 0 0 0 14 Military Power 6
+118 0 0 0 533 20 Military Power Delta 6
+119 1 0 0 -0.3534959 10 Population 6
+120 0 0 0 1512 16 Population Delta 6
+121 1 0 0 0.99383527 5 Trade 6
+122 0 0 0 51 7 Worship 6
+123 0 0 0 71 13 Worship Delta 6
+124 1 0 0 0.29337442 13 communication 6
+125 0 0 0 0 19 communication Delta 6
+126 1 0 0 -0.63322854 3 0 1 85 0 0 13 Medical goods 12 Mineral Ores 2 94 0 0 20 Clean Plasmatic ores 22 Viruses and Pathogenes 2 71 0 0 14 Civilian goods 17 Planet Production 3
+127 0 0 0 0 10 Country #7 17 0 9 Agression 6
+128 0 0 0 57 15 Agression Delta 6
+129 1 0 0 0.83446759 13 Alertness Lvl 6
+130 1 0 0 0 8 Economic 6
+131 0 0 0 76 14 Economic Delta 6
+132 1 0 0 0.56804103 10 Envoirment 6
+133 0 0 0 0 16 Envoirment Delta 6
+134 1 0 0 -0.85406047 3 IIF 6
+135 1 0 0 0 14 Military Power 6
+136 0 0 0 733 20 Military Power Delta 6
+137 1 0 0 -0.89495528 10 Population 6
+138 0 0 0 1156 16 Population Delta 6
+139 1 0 0 -0.6227302 5 Trade 6
+140 0 0 0 66 7 Worship 6
+141 0 0 0 75 13 Worship Delta 6
+142 1 0 0 -0.97344887 13 communication 6
+143 0 0 0 0 19 communication Delta 6
+144 1 0 0 0.36027101 2 0 2 83 0 0 18 Clean DNA research 8 Mutagens 2 67 0 0 18 Clean Mineral Ores 20 Aalcairum based ores 3
+145 0 0 0 0 10 Country #8 17 0 9 Agression 6
+146 0 0 0 89 15 Agression Delta 6
+147 1 0 0 0.02438429 13 Alertness Lvl 6
+148 1 0 0 0 8 Economic 6
+149 0 0 0 98 14 Economic Delta 6
+150 1 0 0 0.35984373 10 Envoirment 6
+151 0 0 0 0 16 Envoirment Delta 6
+152 1 0 0 0.76396984 3 IIF 6
+153 1 0 0 0 14 Military Power 6
+154 0 0 0 518 20 Military Power Delta 6
+155 1 0 0 -0.67925048 10 Population 6
+156 0 0 0 1097 16 Population Delta 6
+157 1 0 0 0.049836725 5 Trade 6
+158 0 0 0 87 7 Worship 6
+159 0 0 0 86 13 Worship Delta 6
+160 1 0 0 -0.8806116 13 communication 6
+161 0 0 0 0 19 communication Delta 6
+162 1 0 0 0.3906064 3 0 1 83 0 0 14 Clean Mutagens 12 DNA research 2 50 0 0 21 Clean Has based ores  22 Viruses and Pathogenes 1 80 0 0 26 Clean Aalcairum based ores 17 Planet Production 3
+163 0 0 0 0 10 Country #9 17 0 9 Agression 6
+164 0 0 0 66 15 Agression Delta 6
+165 1 0 0 0.058198798 13 Alertness Lvl 6
+166 1 0 0 0 8 Economic 6
+167 0 0 0 90 14 Economic Delta 6
+168 1 0 0 -0.33689383 10 Envoirment 6
+169 0 0 0 0 16 Envoirment Delta 6
+170 1 0 0 0.092562638 3 IIF 6
+171 1 0 0 0 14 Military Power 6
+172 0 0 0 868 20 Military Power Delta 6
+173 1 0 0 0.12173834 10 Population 6
+174 0 0 0 1957 16 Population Delta 6
+175 1 0 0 -0.19650868 5 Trade 6
+176 0 0 0 68 7 Worship 6
+177 0 0 0 66 13 Worship Delta 6
+178 1 0 0 -0.65819269 13 communication 6
+179 0 0 0 0 19 communication Delta 6
+180 1 0 0 -0.56181526 2 0 1 57 0 0 14 Clean Mutagens 22 Null matter based ores 1 73 0 0 20 Clean Tissue Samples 15 Has based ores  45 0 -88 -82 46 -45 -61 60 -55 -21 61 -86 -96 92 -34 -45 87 -90 -55 -16 -48 59 -98 -20 99 -83 -11 -48 66 -18 -80 20 -27 -41 66 -82 -43 -26 -23 43 -79 -61 -98 10 -71 -41 -51 0 0 45 0 4 4 0 0 4 1 4 0 1 4 4 3 0 0 3 4 4 0 0 1 4 0 3 4 0 0 1 0 4 0 0 0 1 4 0 0 0 0 4 4 4 0 4 0 4 0 0 30 0 12 1 0
+181 0 0 8 deposit0 0 0 4 0 0 0 11 11 Liquid ores 22 22 Unusual Microorganisms 33 22 Unusual Microorganisms 44 11 Liquid ores 12
+182 0 0 8 deposit1 2 0 67 11 Liquid ores 134 15 Has based ores  12
+183 0 0 8 deposit2 2 0 76 8 Mutagens 152 15 Has based ores  12
+184 0 0 8 deposit3 2 0 93 22 Viruses and Pathogenes 186 11 Liquid ores 12
+185 0 0 8 deposit4 2 0 52 22 Viruses and Pathogenes 104 14 Tissue Samples 12
+186 0 0 8 deposit5 4 0 1 15 Has based ores  2 12 Mineral Ores 3 22 Null matter based ores 4 22 Unusual Microorganisms 12
+187 0 0 8 deposit6 2 0 55 12 DNA research 110 20 Aalcairum based ores 12
+188 0 0 8 deposit7 2 0 57 20 Aalcairum based ores 114 20 Aalcairum based ores 12
+189 0 0 8 deposit8 2 0 56 11 Liquid ores 112 12 DNA research 12
+190 0 0 8 deposit9 2 0 70 12 DNA research 140 20 Aalcairum based ores 12
+191 0 0 9 deposit10 2 0 55 29 Cross Spieces Experimentation 110 14 Plasmatic ores 12
+192 0 0 9 deposit11 4 0 10 8 Mutagens 20 22 Unusual Microorganisms 30 22 Unusual Microorganisms 40 22 Unusual Microorganisms 12
+193 0 0 9 deposit12 2 0 92 11 Liquid ores 184 22 Viruses and Pathogenes 12
+194 0 0 9 deposit13 4 0 7 14 Plasmatic ores 14 22 Viruses and Pathogenes 21 22 Unusual Microorganisms 28 15 Has based ores  12
+195 0 0 9 deposit14 4 0 29 29 Cross Spieces Experimentation 58 22 Null matter based ores 87 22 Unusual Microorganisms 116 14 Plasmatic ores 12
+196 0 0 9 deposit15 2 0 57 8 Mutagens 114 11 Liquid ores 12
+197 0 0 9 deposit16 4 0 5 22 Unusual Microorganisms 10 12 DNA research 15 22 Null matter based ores 20 20 Aalcairum based ores 12
+198 0 0 9 deposit17 2 0 76 22 Null matter based ores 152 22 Viruses and Pathogenes 12
+199 0 0 9 deposit18 4 0 31 14 Plasmatic ores 62 14 Tissue Samples 93 22 Unusual Microorganisms 124 15 Has based ores  12
+200 0 0 9 deposit19 2 0 63 15 Has based ores  126 11 Liquid ores 12
+201 0 0 9 deposit20 4 0 32 22 Unusual Microorganisms 64 8 Mutagens 96 29 Cross Spieces Experimentation 128 29 Cross Spieces Experimentation 12
+202 0 0 9 deposit21 3 0 47 22 Viruses and Pathogenes 94 22 Null matter based ores 141 15 Has based ores  12
+203 0 0 9 deposit22 4 0 33 29 Cross Spieces Experimentation 66 12 Mineral Ores 99 22 Null matter based ores 132 22 Unusual Microorganisms 12
+204 0 0 9 deposit23 3 0 35 22 Viruses and Pathogenes 70 20 Aalcairum based ores 105 12 Mineral Ores 12
+205 0 0 9 deposit24 2 0 82 15 Has based ores  164 15 Has based ores  12
+206 0 0 9 deposit25 4 0 4 14 Plasmatic ores 8 12 Mineral Ores 12 8 Mutagens 16 20 Aalcairum based ores 12
+207 0 0 9 deposit26 3 0 49 15 Has based ores  98 12 DNA research 147 14 Plasmatic ores 12
+208 0 0 9 deposit27 2 0 90 29 Cross Spieces Experimentation 180 12 Mineral Ores 12
+209 0 0 9 deposit28 2 0 81 22 Viruses and Pathogenes 162 22 Unusual Microorganisms 12
+210 0 0 9 deposit29 2 0 54 22 Viruses and Pathogenes 108 22 Viruses and Pathogenes 0 0 30 0 0 0 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 10 2 11 8 12 0 13 5 14 5 15 5 16 0 17 8 18 9 19 2 20 9 21 2 22 5 23 1 24 1 25 7 26 9 27 9 28 7 29 3 0 0 0 0 28 0 0 0 20 Aalcairum based ores 0 14 Civilian goods 0 26 Clean Aalcairum based ores 0 35 Clean Cross Spieces Experimentation 0 18 Clean DNA research 0 21 Clean Has based ores  0 17 Clean Liquid ores 0 18 Clean Mineral Ores 0 14 Clean Mutagens 0 28 Clean Null matter based ores 0 20 Clean Plasmatic ores 0 20 Clean Tissue Samples 0 28 Clean Unusual Microorganisms 0 28 Clean Viruses and Pathogenes 0 29 Cross Spieces Experimentation 0 12 DNA research 0 15 Has based ores  0 11 Liquid ores 0 13 Medical goods 0 12 Mineral Ores 0 8 Mutagens 0 22 Null matter based ores 0 17 Planet Production 0 14 Plasmatic ores 0 15 Technical goods 0 14 Tissue Samples 0 22 Unusual Microorganisms 0 22 Viruses and Pathogenes 0 0 0 1 0 0 5 0 0 0 3 bio 23 1 0
+211 0 0 0 0 0 0 0 0 0 0 4 chem 23
+212 0 0 0 0 0 0 0 0 0 0 3 civ 23
+213 0 0 0 0 0 0 0 0 0 0 3 mil 23
+214 0 0 0 0 0 0 0 0 0 0 4 tech 23
+215 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 20 1000

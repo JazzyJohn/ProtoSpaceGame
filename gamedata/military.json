@@ -1,0 +1,23 @@
+{	"characteristick":[
+		{"name":"Manpower","isLifeDep":true},
+		{"name":"Firepower","isLifeDep":false},
+		{"name":"Partisan Firepower","isLifeDep":false},
+		{"name":"Pillage Firepower","isLifeDep":false},
+		{"name":"Destroy Firepower","isLifeDep":false},
+		{"name":"Deployment capabilities","isLifeDep":false},
+		{"name":"Stealth ","isLifeDep":false},
+		{"name":"Morale ","isLifeDep":false},
+		{"name":"SupplieCoef","isLifeDep":false},
+		{"name":"SupplieAdd","isLifeDep":false}
+	
+	],
+	"units":[
+	{"name":"BaseUnit","isNative":false,"map":[100,5,1,1,1,5,0,10,1,0],"cost":100,"open":true,"uniq":false},
+	{"name":"CombatMech","isNative":false,"map":[100,5,1,1,1,5,0,10,1,0],"cost":100,"open":false,"uniq":false},
+	{"name":"Messia","isNative":false,"map":[100,5,1,1,1,5,0,10,1,0],"cost":100,"open":false,"uniq":true}
+	],
+	"NPC_units":[
+	{"name":"BaseNPC","isNative":false,"map":[10,5,1,1,1,5,0,10,1],"cost":100}
+	
+	]
+}

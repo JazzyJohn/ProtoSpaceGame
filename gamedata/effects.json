@@ -1,0 +1,8 @@
+{
+	
+	"all_effects":[
+		{"name": "Blow up mining eqvipment", "type":1,"changetype":0,"mProductionDelta":-10.0,"time":4}	
+		
+	]	
+
+}

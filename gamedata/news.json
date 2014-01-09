@@ -1,0 +1,9 @@
+{	
+
+	"badNews":[
+		{"name":"Exploshion On Facility","succsessRate":-20.0,"projectNpc":-1, "kpdDelta": 0}
+	],
+	"goodNews":[
+		{"name":"Stable expantion on Wita XI","succsessRate":20.0,"projectNpc":1, "kpdDelta": 0}
+	]
+}

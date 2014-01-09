@@ -1,0 +1,12 @@
+{	
+
+	"allScripts":[
+		{"name":"test","path":"scripts/test.lua"},
+		{"name":"action","path":"scripts/action.lua"},
+		{"name":"planet","path": "scripts/planet.lua"},
+   		 {"name":"research","path": "scripts/research.lua"},
+		{"name":"battle","path": "scripts/battle.lua"},
+		{"name":"period","path": "scripts/period.lua"},
+		   {"name":"ability","path": "scripts/ability.lua"}
+	]
+}

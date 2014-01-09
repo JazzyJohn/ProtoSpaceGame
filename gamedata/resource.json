@@ -1,0 +1,63 @@
+{
+	"all_resource":[
+		"bio","chem","tech","mil","civ"
+	],
+	
+	"all_resource_phys":[
+		{"id":1,"name": "Null matter based ores", "map":[15,30,90,50,10], "type":0,"refine":true,"tpoint":10},	
+		{"id":2,"name": "Aalcairum based ores", "map":[15,30,90,50,10], "type":0,"refine":true,"tpoint":10},
+		{"id":3,"name": "Liquid ores", "map":[20,90,50,10,40], "type":0,"refine":true,"tpoint":10},
+		{"id":4,"name": "Mineral Ores", "map":[10,50,70,50,20], "type":0,"refine":true,"tpoint":10},
+		{"id":5,"name": "Has based ores ", "map":[40,80,20,30,40], "type":0,"refine":true,"tpoint":10},
+		{"id":6,"name": "Plasmatic ores", "map":[10,30,60,80,20], "type":0,"refine":true,"tpoint":10},
+		{"id":7,"name": "Tissue Samples", "map":[60,40,10,40,10], "type":0,"refine":true,"tpoint":10},
+		{"id":8,"name": "Mutagens", "map":[80,30,10,50,20], "type":0,"refine":true,"tpoint":10},
+		{"id":9,"name": "DNA research", "map":[100,20,10,30,30], "type":0,"refine":true,"tpoint":10},
+		{"id":10,"name": "Unusual Microorganisms", "map":[60,60,30,20,20], "type":0,"refine":true,"tpoint":10},
+		{"id":11,"name": "Cross Spieces Experimentation", "map":[90,10,20,60,40], "type":0,"refine":true,"tpoint":10},
+		{"id":12,"name": "Viruses and Pathogenes", "map":[80,60,30,60,40], "type":0,"refine":true,"tpoint":10},
+		{"id":13,"name": "Clean Null matter based ores", "map":[0,10,130,80,0], "type":2,"refine":false,"tpoint":10},	
+		{"id":14,"name": "Clean Aalcairum based ores", "map":[0,0,150,20,0], "type":2,"refine":false,"tpoint":10},
+		{"id":15,"name": "Clean Liquid ores", "map":[10,120,90,0,10], "type":2,"refine":false,"tpoint":10},
+		{"id":16,"name": "Clean Mineral Ores", "map":[0,0,190,80,10], "type":2,"refine":false,"tpoint":10},
+		{"id":17,"name": "Clean Has based ores ", "map":[0,150,30,40,0], "type":2,"refine":false,"tpoint":10},
+		{"id":18,"name": "Clean Plasmatic ores", "map":[0,0,120,150,0], "type":2,"refine":false,"tpoint":10},
+		{"id":19,"name": "Clean Tissue Samples", "map":[100,60,0,0,0], "type":2,"refine":false,"tpoint":10},
+		{"id":20,"name": "Clean Mutagens", "map":[130,20,0,70,0], "type":2,"refine":false,"tpoint":10},
+		{"id":21,"name": "Clean DNA research", "map":[100,20,10,30,30], "type":2,"refine":false,"tpoint":10},
+		{"id":22,"name": "Clean Unusual Microorganisms", "map":[60,60,30,20,20], "type":2,"refine":false,"tpoint":10},
+		{"id":23,"name": "Clean Cross Spieces Experimentation", "map":[120,0,0,70,0], "type":2,"refine":false,"tpoint":10},
+		{"id":24,"name": "Clean Viruses and Pathogenes", "map":[100,70,0,100,0], "type":2,"refine":false,"tpoint":10},				
+		{"id":25,"name": "Planet Production", "map":[20,40,100,70,20], "type":1,"refine":false,"tpoint":10},
+		{"id":26,"name": "Medical goods", "map":[200,0,0,0,150], "type":2,"refine":false,"tpoint":10},
+		{"id":27,"name": "Technical goods", "map":[0,0,200,100,0], "type":2,"refine":false,"tpoint":10},
+		{"id":28,"name": "Civilian goods", "map":[0,0,0,0,300], "type":2,"refine":false,"tpoint":10}		
+	],
+	
+	"all_resource_int":[
+		{"id":-1,"name": "Surveillance Network", "map":[10,10,30,60,60], "type":3,"intType":2},	
+		{"id":-2,"name": "Abduction & Interrogation", "map":[20,10,50,80,70], "type":3,"intType":0},	
+		{"id":-3,"name": "Local Language & communication analyses", "map":[10,10,20,60,100], "type":3,"intType":1},	
+		{"id":-4,"name": "Undercover agents", "map":[10,10,60,60,80], "type":3,"intType":0},
+		{"id":-5,"name": "Culture & History analyses ", "map":[10,10,40,40,100], "type":3,"intType":1},
+		{"id":-6,"name": "Local Science monitoring ", "map":[20,20,70,50,10], "type":3,"intType":0}
+	],
+	"production_map":[
+		{"from":1,"result":13,"amount":1,"refine":true},
+		{"from":2,"result":14,"amount":1,"refine":true},
+		{"from":3,"result":15,"amount":1,"refine":true},
+		{"from":4,"result":16,"amount":1,"refine":true},
+		{"from":5,"result":17,"amount":1,"refine":true},
+		{"from":6,"result":18,"amount":1,"refine":true},
+		{"from":7,"result":19,"amount":1,"refine":true},
+		{"from":8,"result":20,"amount":1,"refine":true},
+		{"from":9,"result":21,"amount":1,"refine":true},
+		{"from":10,"result":22,"amount":1,"refine":true},
+		{"from":11,"result":23,"amount":1,"refine":true},
+		{"from":12,"result":24,"amount":1,"refine":true},
+		{"recept":[{"from":9,"amount":1},{"from":12,"amount":1}],"result":26,"amount":1,"refine":false},
+		{"recept":[{"from":4,"amount":1},{"from":6,"amount":1}],"result":27,"amount":1,"refine":false},
+		{"recept":[{"from":4,"amount":1},{"from":-5,"amount":1}],"result":28,"amount":1,"refine":false}
+	]
+
+}

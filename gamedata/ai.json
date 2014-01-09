@@ -1,0 +1,16 @@
+{
+
+	"all_ability":[
+	
+		
+		{"name":"testAi","script":"testAi","id":1,"next":[
+			{"conditionName":"testAiCond","Id":1}
+			]}
+		
+		
+
+	]
+}
+
+
+	

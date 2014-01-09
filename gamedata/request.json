@@ -1,0 +1,16 @@
+{
+	"all_resource":[
+		"bio","chem","tech","mil","civ"
+	],
+	
+	"all_request":[
+		{"id":1,"name":"Gaming development studio is requesting some CrackDelivers to fuck up their project","amount":200, "dep":4,"time":4,"credit":800,"relation":5}	
+	],
+	"all_project":[
+		{"id":1,"name":"Cloning research project","descr":" Bio.division starts a huge cloning research project, the headresearcher is requesting materials for study - 500 bio.recources per week (6 weeks total) Success + 7000 credits Bio.recources prosessing upgraded to level 2, Failure +300 bio.recources compensation",
+		"periodNeed":500, "dep":0,"periodCnt":6 ,"type":0,"succsessCredit":7000,"succsessRelation":5,"unpaidFaliureRelation":-5,"refundCredit":500,"isCallback":true,"callType":0},	
+		{"id":2,"name":"Robotics research","descr":" Chief Engineer is requesting recources for advanced robotics research 1000 tech.recources per month (2 months total) Success + 15000 credits one tech research free instant unlock, Failure +200 bio.recources and +500 credits compensation",
+		"periodNeed":1000, "dep":2,"periodCnt":2 ,"type":1,"succsessCredit":15000,"succsessRelation":10,"unpaidFaliureRelation":-10,"refundCredit":700,"isCallback":true,"callType":0}
+	]
+
+}

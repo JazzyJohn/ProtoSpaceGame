@@ -1,0 +1,13 @@
+{	"blueprints":[
+		{"name":"Mining Building","cost":100,"type":3,"uniq":false,  "place": 0, "dayly_cost":[10,20],"open":true},
+		{"name":"Warehouse","cost":100,"type":2, "uniq":false, "place": 1,"orbitcost":300, "dayly_cost":[10,20],"open":true},
+		{"name":"Production Workshop","cost":100,"type":4,"uniq":false,   "place": 1,"orbitcost":300, "dayly_cost":[10,20],"open":true},
+		{"name":"Labaratory","cost":100,"type":5, "uniq":false, "place": 1,"orbitcost":300, "dayly_cost":[10,20],"open":true},
+		{"name":"Military","cost":100,"type":6,"uniq":false,  "place": 1,"orbitcost":300, "dayly_cost":[10,20],"open":true},
+		{"name":"Embassy","cost":100,"type":7,"uniq":false,   "place": 0, "dayly_cost":[10,20],"open":true},
+		{"name":"Black Ops Corp","cost":100,"type":8,"uniq":false,  "place": 0, "dayly_cost":[10,20],"open":true},
+		{"name":"Orbital Mining Building","cost":100,"uniq":true, "type":8,  "place": 2,"orbitcost":100, "dayly_cost":[10,20],"open":false}	
+	
+	]
+	
+}

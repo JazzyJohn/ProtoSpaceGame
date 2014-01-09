@@ -1,0 +1,36 @@
+{
+
+	"all_ability":[
+	
+		
+		{"url":"outmine","name":"Mine Out from Depsoit","type":9,"open":false},
+		
+		{"url":"heavymine","name":"Heavy Mine","type":6,"open":false},
+		{"url":"autosell","name":"Automatic sell from Deposit","type":9,"open":false},
+		{"url":"demolition","name":"Demolit mountain","type":7,"open":false},
+		{"url":"mobileref","name":"Mobile refinery","type":9,"open":false},
+		{"url":"fastgover","name":"Add Fast hover-vehicles","type":4,"open":false},
+		{"url":"supplyunit","name":"Add Supply unit","type":4,"open":false},
+		{"url":"officer","name":"Add High-ranking officer","type":4,"open":false},
+		{"url":"suppplydrop","name":"Orbital supply drops","type":3,"open":false},
+		{"url":"punisher","name":"Add Punisher squads","type":4,"open":false},
+		{"url":"pillage","name":"Add Special pillaging teams","type":4,"open":false},
+		{"url":"heavy","name":"Heavy weapon teams","type":4,"open":false},
+		{"url":"hocpital","name":"Mobile hospitals","type":4,"open":false},
+		{"url":"heavyartillery","name":"Heavy artillery elemetns","type":4,"open":false},
+		{"url":"stealhtransport","name":"Stealth transports","type":4,"open":false}, 
+		{"url":"orbstrike","name":"Orbital Strike","type":7,"open":false}, 
+		{"url":"orbitalcannon","name":"Orbital Holocaust-class plasma cannon","type":7,"open":false,"timeout":10}, 
+		{"url":"localmarketanalyses","name":"Media broadcasting system","type":8,"open":false},  
+		{"url":"mediabrodcast","name":"Media broadcasting system","type":8,"open":false},  
+		{"url":"planetmarket","name":"Upgrade trading outpost to planetary market","type":7,"open":false},  
+		{"url":"depofart","name":"Build Department of arts","type":8,"open":false},  
+		{"url":"nativespec","name":"Employ Native specialists","type":8,"open":false},
+		{"url":"envcontrol","name":"Environmental control","type":8,"open":false},  	
+		{"url":"orbpropoganda","name":"Orbital Propaganda center","type":8,"open":false,"timeout":10}
+		
+	]
+}
+
+
+	
